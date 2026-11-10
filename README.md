@@ -9,4 +9,4 @@ Welcome to my repository for the Oasis Infobyte Data Science Internship!
 
 ---
 **Author:** Hanifah Morayo Abdulazeez
-**Linkedin:** www.linkedin.com/in/hanifahmorayoabdulazeez
+- **Linkedin:** www.linkedin.com/in/hanifahmorayoabdulazeez
